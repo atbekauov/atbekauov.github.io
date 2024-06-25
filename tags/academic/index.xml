@@ -2,21 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/academic/</link>
-      <atom:link href="https://example.com/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/academic/</link>
+      <atom:link href="http://localhost:1313/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://example.com/tags/academic/</link>
+      <link>http://localhost:1313/tags/academic/</link>
     </image>
     
     <item>
       <title>Моя увлекательная неделя</title>
-      <link>https://example.com/post/post-1/</link>
+      <link>http://localhost:1313/post/post-3/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post-3/</guid>
+      <description>&lt;p&gt;Всем привет! 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#сессия-начинается&#34;&gt;Сессия начинается&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#пары-закончились&#34;&gt;Пары Закончились&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#сходил-в-баню&#34;&gt;Сходил в баню&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;сессия-начинается&#34;&gt;Сессия начинается&lt;/h2&gt;
+&lt;p&gt;Это моя винтовка. Таких винтовок много, но эта моя. Моя винтовка — мой лучший друг. Это — моя жизнь. Я должен научиться владеть оружием так же, как владею своей жизнью. Без меня моя винтовка бесполезна. Без моей винтовки бесполезен я. Я должен метко стрелять из моей винтовки. Я должен стрелять точнее, чем враг, который пытается меня убить. Я должен застрелить его до того, как он застрелит меня. И я это сделаю. Клянусь перед богом. Я и моя винтовка — мы защитники моей страны. Мы не боимся врагов. Мы спасители жизни. Пусть будет так. Пока не останется больше врагов и не наступит мир. Аминь.&lt;/p&gt;
+&lt;h2 id=&#34;пары-закончились&#34;&gt;Пары Закончились&lt;/h2&gt;
+&lt;p&gt;Пары закончились, но по мат анализу всё ещё идут консультации. Более того у нас будет контрольная по мат анализу уже в июне, хотя я не думал, что так можно.&lt;/p&gt;
+&lt;h2 id=&#34;сходил-в-баню&#34;&gt;Сходил в баню&lt;/h2&gt;
+&lt;p&gt;На этой неделе побывал в довольно необычном месте - комплекс &amp;ldquo;Термы&amp;rdquo; в Видном. Это огромная общественная баня в которой есть к тому же бассейн под открытым воздухом. Был там вечером - почти ночью, и чувства, стоит признать, испытал наиприятнейшие.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя увлекательная неделя</title>
+      <link>http://localhost:1313/post/post-1/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post-1/</guid>
+      <guid>http://localhost:1313/post/post-1/</guid>
       <description>&lt;p&gt;Всем привет! 👋&lt;/p&gt;
 
 
@@ -48,9 +79,9 @@
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>https://example.com/post/get-started/</link>
+      <link>http://localhost:1313/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/get-started/</guid>
+      <guid>http://localhost:1313/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
