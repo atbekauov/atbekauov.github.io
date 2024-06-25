@@ -2,21 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/academic/</link>
-      <atom:link href="http://localhost:1313/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tags/academic/</link>
+      <atom:link href="https://example.com/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>http://localhost:1313/tags/academic/</link>
+      <link>https://example.com/tags/academic/</link>
     </image>
     
     <item>
-      <title>Моя увлекательная неделя</title>
-      <link>http://localhost:1313/post/post-3/</link>
+      <title>Моя увлекательная неделя 3</title>
+      <link>https://example.com/post/post-5/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-5/</guid>
+      <description>&lt;p&gt;Всем привет! 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#кр-по-матанализу&#34;&gt;КР по матанализу&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#скучно&#34;&gt;Скучно&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#затишье-перед-бурей&#34;&gt;Затишье перед бурей&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;кр-по-матанализу&#34;&gt;КР по матанализу&lt;/h2&gt;
+&lt;p&gt;Прошла наконец единственная за весь семестр контрольная по матанализу. Я перекатился через 51 балл, поэтому можно расслабиться, всё равно тройку получу. А большего мне и не надо!&lt;/p&gt;
+&lt;h2 id=&#34;скучно&#34;&gt;Скучно&lt;/h2&gt;
+&lt;p&gt;После кр по матанализу полностью закончились и пары и консультации, и я осознал, насколко же мне всё-таки нечего делать, когда пар нет. До возвращения на учёбу хотя бы работа была, а в армии вообще скучать не приходилось. Не ожидал, что когда-то столкнусь с чувством, что мне некуда себя деть.&lt;/p&gt;
+&lt;h2 id=&#34;затишье-перед-бурей&#34;&gt;Затишье перед бурей&lt;/h2&gt;
+&lt;p&gt;Остаётся только сидеть и ждать сессии, хотя в ретроспективе на всё это смотря, стоило бы заняться лабораторными работами по осям. Ходят слухи, что досдавать их можно только полным комплектом, хотя надеюсь это не так.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя увлекательная неделя 2</title>
+      <link>https://example.com/post/post-3/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post-3/</guid>
+      <guid>https://example.com/post/post-3/</guid>
       <description>&lt;p&gt;Всем привет! 👋&lt;/p&gt;
 
 
@@ -44,10 +75,10 @@
     </item>
     
     <item>
-      <title>Моя увлекательная неделя</title>
-      <link>http://localhost:1313/post/post-1/</link>
+      <title>Моя увлекательная неделя 1</title>
+      <link>https://example.com/post/post-1/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post-1/</guid>
+      <guid>https://example.com/post/post-1/</guid>
       <description>&lt;p&gt;Всем привет! 👋&lt;/p&gt;
 
 
@@ -79,9 +110,9 @@
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:1313/post/get-started/</link>
+      <link>https://example.com/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/get-started/</guid>
+      <guid>https://example.com/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
