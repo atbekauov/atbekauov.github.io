@@ -5,12 +5,43 @@
     <link>https://example.com/tags/academic/</link>
       <atom:link href="https://example.com/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>https://example.com/tags/academic/</link>
     </image>
+    
+    <item>
+      <title>Моя увлекательная неделя 4</title>
+      <link>https://example.com/post/post-7/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-7/</guid>
+      <description>&lt;p&gt;Всем привет! 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#за-прошедшую-недулю-ничего-не-произошло&#34;&gt;За прошедшую недулю ничего не произошло&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#вообще-ничего&#34;&gt;Вообще ничего&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#даже-удивительно&#34;&gt;Даже удивительно&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;за-прошедшую-недулю-ничего-не-произошло&#34;&gt;За прошедшую недулю ничего не произошло&lt;/h2&gt;
+&lt;p&gt;На этой неделе ничего не было.&lt;/p&gt;
+&lt;h2 id=&#34;вообще-ничего&#34;&gt;Вообще ничего&lt;/h2&gt;
+&lt;p&gt;Нет, правда, я не вру.&lt;/p&gt;
+&lt;h2 id=&#34;даже-удивительно&#34;&gt;Даже удивительно&lt;/h2&gt;
+&lt;p&gt;Всем спокойствия и здоровья! Удачи!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя увлекательная неделя 3</title>
