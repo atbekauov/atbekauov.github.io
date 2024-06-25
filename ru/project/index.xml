@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Hugo Academic CV Theme</title>
+    <link>https://example.com/ru/project/</link>
+      <atom:link href="https://example.com/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://example.com/ru/project/</link>
+    </image>
+    
+    <item>
+      <title>Лабораторные работы по ОС</title>
+      <link>https://example.com/ru/project/labs_os/</link>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/labs_os/</guid>
+      <description>&lt;p&gt;Выполненные лабораторные работы по предмету &amp;ldquo;Операционные системы&amp;rdquo; (Просроченные)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Сайт на Github pages</title>
+      <link>https://example.com/ru/project/site_os/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/site_os/</guid>
+      <description>&lt;p&gt;Индивидуальный проект по предмету операционные системы - сайт на Github pages.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

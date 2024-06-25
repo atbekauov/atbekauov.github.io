@@ -5,12 +5,43 @@
     <link>https://example.com/tags/academic/</link>
       <atom:link href="https://example.com/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>https://example.com/tags/academic/</link>
     </image>
+    
+    <item>
+      <title>My exciting week 5</title>
+      <link>https://example.com/post/post-9/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-9/</guid>
+      <description>&lt;p&gt;Greetings! 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#os-recertification&#34;&gt;OS recertification&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#i-do-labs-on-os&#34;&gt;I do labs on OS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#im-doing-an-os-project&#34;&gt;I&amp;rsquo;m doing an OS project&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;os-recertification&#34;&gt;OS recertification&lt;/h2&gt;
+&lt;p&gt;Well, nothing surprising in principle, but I still can’t understand whether recertification is like a retake (for which there is a commission) or not?&lt;/p&gt;
+&lt;h2 id=&#34;i-do-labs-on-os&#34;&gt;I do labs on OS&lt;/h2&gt;
+&lt;p&gt;Day and night, in the morning I get up and sit down, when I finish, I fall asleep. If only this would all end&lt;/p&gt;
+&lt;h2 id=&#34;im-doing-an-os-project&#34;&gt;I&amp;rsquo;m doing an OS project&lt;/h2&gt;
+&lt;p&gt;I don’t even go to bed day and night, I hope I’ll make it to the university.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя увлекательная неделя 4</title>
